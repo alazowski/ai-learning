@@ -1,0 +1,11 @@
+order_id,product,category,units_sold,revenue,return_rate,weeks_to_deliver
+1001,Air Max 90,Running,340,52000,0.04,3
+1002,Jordan 1 High,Basketball,210,89000,0.08,4
+1003,Nike Blazer,Casual,190,28000,0.06,2
+1004,Air Force 1,Casual,420,63000,0.03,2
+1005,React Infinity,Running,280,61000,0.05,3
+1006,ZoomX Vaporfly,Running,95,47000,0.02,5
+1007,Jordan 4 Retro,Basketball,175,96000,0.09,6
+1008,Nike Dunk Low,Casual,510,77000,0.04,2
+1009,Air Zoom Pegasus,Running,315,54000,0.03,3
+1010,Jordan 6 Rings,Basketball,130,58000,0.07,5
